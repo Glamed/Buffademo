@@ -1,0 +1,6 @@
+name: Buffademo
+version: '${version}'
+
+main: games.sparking.buffademo.Buffademo
+api-version: '26.3'
+load: POSTWORLD
